@@ -1,3 +1,6 @@
+## VİDEO KAYIT;
+![Screen Recording 2024-08-12 at 10 02 53 96 PM](https://github.com/user-attachments/assets/86e393ef-b1fe-4ba6-97f7-0fd5847ac699)
+
 ## KURULUM
 - axios
 - react-router-dom
